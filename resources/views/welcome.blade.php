@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Custom Deploy 
+                    Custom Deploy PWNS
                 </div>
 
                 <div class="links">
