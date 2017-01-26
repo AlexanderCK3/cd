@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Custom Deploy LOCAL
+                    Custom Deploy 
                 </div>
 
                 <div class="links">
